@@ -1,5 +1,6 @@
 # Vending
 Vending mechine
+.
 The program first obtains the six coin denominations from the user. Then, it further obtains the 
 amount of money inserted into the vending machine, and the price of the buying item. You can 
 assume that (a) all user inputs will always be positive integers, (b) the coin denominations are always 
